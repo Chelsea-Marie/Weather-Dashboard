@@ -5,10 +5,15 @@ The Weather Dashboard allows visitors to search for both current weather conditi
 ## Screenshots of functionality
 
 ### Starting point
+
 <img width="576" alt="1" src="https://github.com/Chelsea-Marie/Weather-Dashboard/assets/116038369/53e6127b-e8a7-4312-974a-c8be38807241">
+
 ### Searching one city
+
 <img width="492" alt="2" src="https://github.com/Chelsea-Marie/Weather-Dashboard/assets/116038369/f6d12156-e089-432e-8a25-e777d61fba41">
+
 ### Previous searches are saved into local storage and displayed as buttons to go back and view data
+
 <img width="495" alt="3" src="https://github.com/Chelsea-Marie/Weather-Dashboard/assets/116038369/0e47e51e-85fd-46be-bfea-e6b2ba772913">
 
 ## Deployed URL:
